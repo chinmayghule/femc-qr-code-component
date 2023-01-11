@@ -1,0 +1,1 @@
+This is a solution to the Front End Mentor challenge: "QR Code Component".
